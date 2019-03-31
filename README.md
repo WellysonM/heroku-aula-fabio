@@ -108,3 +108,7 @@ $ git push heroku master
 ````
 $ heroku open
 ````
+
+### visualização do site no heroku
+
+- https://aula-fabio.herokuapp.com
